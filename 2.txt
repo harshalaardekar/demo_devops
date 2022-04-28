@@ -1,3 +1,0 @@
-1 - This is 2.txt file.
-
-change in file on master
